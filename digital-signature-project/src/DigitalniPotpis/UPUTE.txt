@@ -1,9 +1,0 @@
-Za pokretanje programa potrebno je otići do mape 'bin' -> 'Debug' -> DigitalniPotpis.exe
-
-Klikom na izvršnu datoteku (DigitalniPotpis.exe) se otvara grafičko sučelje programa.
-
-Sve novo kreirane datoteke se spremaju u mapu 'Kreirane datoteke'
-
-Prvo se unosi poruka i zatim se ta poruka može kriptirati i dekriptirati simetričnim i asimetričnim algoritmom
-
-Napisana poruka se može digitalno potpisati i provjeriti točnost tog digitalnog potpisa
