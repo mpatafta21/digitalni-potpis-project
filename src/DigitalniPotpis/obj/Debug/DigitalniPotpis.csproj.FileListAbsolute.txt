@@ -1,0 +1,10 @@
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\bin\Debug\DigitalniPotpis.exe.config
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\bin\Debug\DigitalniPotpis.exe
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\bin\Debug\DigitalniPotpis.pdb
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\obj\Debug\DigitalniPotpis.csproj.AssemblyReference.cache
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\obj\Debug\DigitalniPotpis.Properties.Resources.resources
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\obj\Debug\DigitalniPotpis.csproj.GenerateResource.cache
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\obj\Debug\DigitalniPotpis.csproj.CoreCompileInputs.cache
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\obj\Debug\DigitalniPotpis.exe
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\obj\Debug\DigitalniPotpis.pdb
+X:\FAKS ARHIVA\FAKS\NOS\projekt\DigitalniPotpis\obj\Debug\DigitalniPotpis.Form1.resources
